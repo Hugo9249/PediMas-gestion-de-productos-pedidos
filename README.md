@@ -25,13 +25,14 @@ La aplicación ofrece una **interfaz web amigable, responsive y 100% en español
 ---
 
 ## 👥 Integrantes del Grupo:
-| Nombre Completo               | Rol / Responsabilidad                            |
-|-------------------------------|--------------------------------------------------|
-| Romina Barrientos             | Desarrollo de CRUD y Vistas de Productos         |
-| Valeria Avalos                | Desarrollo de API y Documentación Técnica        |
-| Gustavo Ayala                 | Integración Backend y Relaciones de Base de Datos|
-| Chavez Librada Noelia         | Diseño de Interfaces y Testing                   |
-| Brandan Hugo                  | Autenticación, Livewire y Presentación Final     |
+| Nombre Completo               | Rol / Responsabilidad                            | Perfil de GitHub |
+|-------------------------------|--------------------------------------------------|------------------|
+| Romina Barrientos             | Desarrollo de CRUD y Vistas de Productos         | [GitHub](https://github.com/usuario1) |
+| Valeria Avalos                | Desarrollo de API y Documentación Técnica        | [GitHub](https://github.com/usuario2) |
+| Gustavo Ayala                 | Integración Backend y Relaciones de Base de Datos| [GitHub](https://github.com/usuario3) |
+| Chavez Librada Noelia         | Diseño de Interfaces y Testing                   | [GitHub](https://github.com/usuario4) |
+| Brandan Hugo                  | Autenticación, Livewire y Presentación Final     | [GitHub](https://github.com/brandanhugo) |
+
 
 ---
 
